@@ -1,165 +1,204 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=220&section=header&text=Keerthan%20B%20M&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20in%20Training%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20AI%20Engineering&descAlignY=55&descSize=16" />
+
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=50&lines=Initializing+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Loading" />
+
+<!-- Main banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050a0e,50:0a2a1a,100:050a0e&height=280&section=header&text=Keerthan%20B%20M&fontSize=60&fontColor=00E5A0&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=60&descSize=18&descColor=71B280&stroke=00E5A0&strokeWidth=2" />
+
+<br/>
+
+<!-- Animated typing subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00E5A0&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+solve+real+problems+%F0%9F%A4%96;LLM+Hallucination+Detection+%7C+Gait+Auth+%7C+Cybersecurity+AI;94%25%2B+accuracy+%7C+9.12+CGPA+%7C+1st+Prize+%40+SDGForge+2025;Always+learning.+Always+building.+Always+shipping.+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthan-bm)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthan373@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keerthan2024)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/Keerthan2024)
+[![Profile Views](https://komarev.com/ghpvc/?username=Keerthan2024&color=00e5a0&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Keerthan2024)
+
 </div>
 
+---
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; `whoami`
+
+```python
+class KeerthanBM:
+    def __init__(self):
+        self.name        = "Keerthan B M"
+        self.role        = "Data Scientist in Training | AI Engineer"
+        self.location    = "📍 Bengaluru, Karnataka, India"
+        self.education   = "BE CSE (AIML) @ JSSATE | 6th Sem | CGPA: 9.12/10"
+        self.email       = "keerthan373@gmail.com"
+        self.phone       = "+91 88921 55673"
+
+        self.interests   = ["LLMs", "Deep Learning", "Cybersecurity AI",
+                            "Biometrics", "Real-time Systems"]
+
+        self.currently   = "🔬 Building HalluciSense — LLM Hallucination Detection"
+        self.goal        = "🎯 ML Engineer building impactful, production-ready AI"
+        self.superpower  = "⚡ Rapid prototyping at hackathons (8+ participated)"
+        self.fun_fact    = "🏆 Won 1st Prize at SDGForge 2025 out of 60+ teams"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something great together 🚀")
+
+me = KeerthanBM()
+me.say_hi()
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp; Tech Arsenal
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/keerthan-bm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:keerthan373@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Keerthan2024">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Keerthan2024&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</div>
 
----
-
-## 🧠 About Me
-
-🎓 **BE in Computer Science (AI & ML)** — JSS Academy of Technical Education, Bengaluru *(Expected Aug 2027)*  
-📊 **CGPA: 9.12 / 10** (through 5th Semester)  
-🏆 **Hackathon Enthusiast** — 1st Prize winner at SDGForge 2025 and Top finisher across 8+ national hackathons  
-🔬 **Currently Building:** HalluciSense — an LLM hallucination detection framework (Final Year Project)  
-📍 **Bengaluru, Karnataka, India**
-
-> *"Building AI systems that solve real problems, one model at a time."*
-
----
-
-## 🚀 Areas of Interest
-
-- 🤖 Machine Learning & Deep Learning (CNN, NLP)
-- 🧬 Large Language Models & Hallucination Detection
-- 🔐 AI for Cybersecurity & Biometric Systems
-- 🌾 AI for Agriculture & Healthcare
-- 🌐 Full-Stack AI-powered Applications
-
----
-
-## 🛠 Tech Stack
-
-### Languages
+### 🧠 AI / ML / Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### ML & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Frameworks & Tools
+### 💻 Languages & Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+</div>
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### 🧪 HalluciSense – LLM Hallucination Detection Framework *(Final Year Project)*
-> A hybrid evaluation pipeline combining factual verification, semantic consistency scoring, and confidence calibration to detect hallucinations in LLM outputs. Benchmarked on TruthfulQA and HaluEval — **30% improvement** in detection precision over single-method baseline.
+## 🚀 &nbsp; Featured Projects
 
----
+<div align="center">
 
-### 🚶 Gait Authentication System
-> Biometric authentication from walking-pattern sensor data. Achieved **94%+ classification accuracy** with sub-second inference. Full-stack: mobile sensor app + Flask ML backend.
-🔗 [GitHub Repo](https://github.com/Keerthan2024)
-
----
-
-### 🐄 CattleGuard – AI-Based Livestock Monitoring System
-> Real-time anomaly-detection pipeline for livestock health monitoring with automated alerts. Reduced disease-detection latency by an estimated **40%** vs manual observation.
-🔗 [GitHub Repo](https://github.com/Keerthan2024)
-
----
-
-### 🛡️ AEGIS – Adversarial Entity Graph Intelligence System
-> Graph-based cybersecurity platform that ingests large-scale system logs and surfaces multi-layer attack patterns in real time. Reduced manual log-review time by **60%+**.
-🔗 [GitHub Repo](https://github.com/Keerthan2024)
-
----
-
-### 🚌 Gramyatra – Real-Time Public Transport Tracking
-> Live bus-tracking platform streaming real-time GPS feeds through a responsive web interface for small-city transit networks.
-🔗 [GitHub Repo](https://github.com/Keerthan2024)
-
----
-
-### 🚦 GreenWave – Smart Traffic Coordination System
-> Sensor-driven adaptive traffic-signal controller that dynamically assigns green corridors to emergency vehicles. Cut simulated emergency response time by **35%**.
-🔗 [GitHub Repo](https://github.com/Keerthan2024)
-
----
-
-## 🏆 Achievements & Hackathons
-
-| 🥇 | Event | Result |
+| 🔬 Project | ⚡ Description | 📊 Impact |
 |---|---|---|
-| 🥇 | **SDGForge 2025** – Atria Institute of Technology | **1st Prize** / 60+ Teams |
-| 🏅 | **Hack Malenadu '26** – Cybersecurity Track, PESIT Shimoga | **Top 12** / 150 Teams |
-| 🏅 | **Sri Krishna Institute of Technology Hackathon** | **Top 20** / 100 Teams |
-| 🎯 | **Smart India Hackathon 2025** | Internal Selection |
-| 🎯 | **Aventus 3.0** – Dayananda Sagar University | Presenter |
-| 🎯 | **HackMedia 2025** – National Level Hackathon | Participant |
-| 🎯 | **Xcelerate** – 24-Hour Hackathon, BIT NIKSHATRA | Participant |
+| **[HalluciSense](https://github.com/Keerthan2024)** | LLM Hallucination Detection · Factual verification + semantic scoring + confidence calibration. Benchmarked on TruthfulQA & HaluEval | `+30% detection precision` |
+| **[Gait Auth System](https://github.com/Keerthan2024)** | Biometric auth from walking-pattern sensor data · Mobile app + Flask ML backend · **SDGForge 2025 Winner** | `94%+ accuracy · sub-second inference` |
+| **[AEGIS](https://github.com/Keerthan2024)** | Graph-intelligence cybersecurity platform · Real-time multi-layer attack-pattern detection on enterprise logs | `60%+ log review time saved` |
+| **[CattleGuard](https://github.com/Keerthan2024)** | AI livestock health monitoring · Real-time anomaly detection + automated alerts | `40% disease detection latency cut` |
+| **[Gramyatra](https://github.com/Keerthan2024)** | Live GPS bus-tracking for small cities · Real-time feeds via responsive web interface | `Smart India Hackathon 2025` |
+| **[GreenWave](https://github.com/Keerthan2024)** | Adaptive traffic signals · Dynamic green corridors for emergency vehicles | `35% emergency response time saved` |
 
----
+</div>
 
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🏆 &nbsp; Achievements & Hackathons
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthan2024&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthan2024&theme=github_dark" />
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                      🏆  HALL OF WINS  🏆                               ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🥇  SDGForge 2025 — Atria Institute          1st Prize / 60+ Teams     ║
+║  🏅  Hack Malenadu '26 — PESIT Shimoga        Top 12 / 150 Teams        ║
+║  🏅  Sri Krishna Institute Hackathon          Top 20 / 100 Teams        ║
+║  🎯  Smart India Hackathon 2025               Internal Selection         ║
+║  🎯  Aventus 3.0 — Dayananda Sagar Uni        Presenter                 ║
+║  🎯  HackMedia 2025 — National Level          Participant               ║
+║  🎯  Xcelerate — BIT NIKSHATRA E-Summit       24-Hour Hackathon         ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📚 &nbsp; Education Journey
+
+<div align="center">
+
+```
+                     🎓 Academic Timeline
+─────────────────────────────────────────────────────────
+  2020-21  │  Sharadha Vidyalaya         │  SSLC   93.12%
+  2021-23  │  Vidhya Soudha PU College   │  PUC    95.5%
+  2023-27  │  JSSATE Bengaluru           │  BE AIML  9.12 CGPA
+           │  CSE (AI & ML) · 6th Sem   │  (through 5th sem)
+─────────────────────────────────────────────────────────
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 &nbsp; GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Keerthan2024">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keerthan2024&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=050a0e&title_color=00E5A0&icon_color=00E5A0&text_color=71B280"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthan2024&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=050a0e&title_color=00E5A0&text_color=71B280"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthan2024&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthan2024&theme=merko&hide_border=true&background=050a0e&stroke=00E5A0&ring=00E5A0&fire=71B280&currStreakNum=ffffff&sideNums=71B280&currStreakLabel=00E5A0&sideLabels=71B280&dates=6b8fa3" alt="streak stats"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthan2024&custom_title=Keerthan's%20Contribution%20Graph&bg_color=050a0e&color=00E5A0&line=71B280&point=00E5A0&area=true&area_color=00E5A0&hide_border=true" />
+</div>
 
-## 🎓 Education
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-| Level | Institution | Score | Year |
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthan2024/Keerthan2024/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthan2024/Keerthan2024/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Keerthan2024/Keerthan2024/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🌐 &nbsp; Let's Connect
+
+<div align="center">
+
+| 📧 Email | 📱 Phone | 💼 LinkedIn | 🐙 GitHub |
 |---|---|---|---|
-| 🎓 B.E. CSE (AIML) | JSS Academy of Technical Education, Bengaluru | CGPA: 9.12/10 | 2023–2027 |
-| 📘 PU (11th–12th) | Vidhya Soudha PU College | 95.5% | 2021–2023 |
-| 📗 SSLC (10th) | Sharadha Vidyalaya | 93.12% | 2020–2021 |
-
----
-
-## 🐍 Contribution Activity
-
-![Snake animation](https://raw.githubusercontent.com/Keerthan2024/Keerthan2024/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-  
-📧 **Email:** keerthan373@gmail.com  
-📱 **Phone:** +91 88921 55673  
-💼 **LinkedIn:** [linkedin.com/in/keerthan-bm](https://www.linkedin.com/in/keerthan-bm)  
-🐙 **GitHub:** [github.com/Keerthan2024](https://github.com/Keerthan2024)
+| [keerthan373@gmail.com](mailto:keerthan373@gmail.com) | [+91 88921 55673](tel:+918892155673) | [linkedin.com/in/keerthan-bm](https://www.linkedin.com/in/keerthan-bm) | [github.com/Keerthan2024](https://github.com/Keerthan2024) |
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:71B280,100:134E5E&height=120&section=footer" />
+
+> *"The best way to predict the future is to build it."*
+>
+> **— Always learning. Always shipping. 🚀**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a0e,50:0a2a1a,100:050a0e&height=100&section=footer&fontColor=00E5A0" />
 </div>
